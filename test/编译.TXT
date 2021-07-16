@@ -1,0 +1,4 @@
+单个文件编译
+javac  Test.java
+多个文件编译
+javac -d ./ ./*.java
